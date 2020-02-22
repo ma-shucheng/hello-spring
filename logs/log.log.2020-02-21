@@ -1,0 +1,8 @@
+2020-02-21 16:16:28,652 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7cdbc5d3: startup date [Fri Feb 21 16:16:28 CST 2020]; root of context hierarchy
+2020-02-21 16:16:28,813 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2020-02-21 16:17:09,046 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@41975e01: startup date [Fri Feb 21 16:17:09 CST 2020]; root of context hierarchy
+2020-02-21 16:17:09,153 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-context.xml]
+2020-02-21 16:17:09,466 INFO [com.shuke.hello.spring.Mytest] - info 级别的日志
+2020-02-21 16:17:09,466 WARN [com.shuke.hello.spring.Mytest] - warn 级别日志
+2020-02-21 16:17:09,466 ERROR [com.shuke.hello.spring.Mytest] - error 级别日志
+2020-02-21 16:17:09,491 INFO [com.shuke.hello.spring.Mytest] - message is 测试 测试2
